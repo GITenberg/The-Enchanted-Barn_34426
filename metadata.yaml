@@ -1,0 +1,44 @@
+_repo: The-Enchanted-Barn_34426
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frederick, Edmund
+    alias: Frederick, E. (Edmund)
+    birthdate: 1870
+    gutenberg_agent_id: '6450'
+    url: http://www.gutenberg.org/2009/agents/6450
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Livingston, Grace
+    - Lutz, Grace Livingston Hill
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: Shirley Hollister is faced with a harrowing situation. She, her ailing
+  mother, and her younger brothers and sisters have been evicted from their small
+  flat, which is slated for demolition. Desperate for a place to live, she rents and
+  begins to refurbish an old barn. Amazed with her progress and pluck, the landlord,
+  Sidney Graham, begins to take an interest in the family's well-being. Is it possible
+  for love to flourish amidst such trying circumstances?
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+title: The Enchanted Barn
+url: http://www.gutenberg.org/ebooks/34426
